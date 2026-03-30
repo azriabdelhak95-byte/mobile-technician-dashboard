@@ -45,6 +45,18 @@ To learn more about developing your project with Expo, look at the following res
 ## Join the community
 
 Join our community of developers creating universal apps.
+---
+
+## 📸 Aperçu de l'application
+
+Voici quelques captures d'écran du Dashboard en action :
+
+<p align="center">
+  <img src="captures d'écran/accueil.png" width="350" title="Écran d'accueil">
+  <img src="captures d'écran/dashboard.png" width="350" title="Tableau de bord">
+</p>
+
+> **Note :** Le code source complet et l'architecture (React Native / Firebase) sont détaillés dans les dossiers ci-dessus.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
